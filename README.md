@@ -19,5 +19,5 @@ String code = Generate.obtainImageFile(160, 70, 45, 45, fos, "png");
 ```
 
 it generate picture like this:    
-![sample](https://oss.myann.cn/static/image/github/codeImage.png)
+![sample](https://oss.myann.cn/static/img/github/codeImage.png)
 
