@@ -15,7 +15,7 @@ String code = Generate.obtainWebImage(160, 70, 45, 45, os, "png");
 File Mode:
 ```java
 String filePath = "D:\codeImage.png";
-String code = Generate.obtainImageFile(160, 70, 45, 45, fos, "png");
+String code = Generate.obtainImageFile(160, 70, 45, 45, filePath, "png");
 ```
 
 it generate picture like this:    
