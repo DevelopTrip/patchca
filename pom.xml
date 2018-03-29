@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>jetclouds-patchca</name>
-  <url>https://github.com/jetclouds/patchca</url>
+  <url>https://github.com/JetClouds/patchca</url>
   <description>Simple yet powerful verification code library written in Java with zero dependency.</description>
 
   <properties>
